@@ -26,3 +26,7 @@ uv add <package-name>
 # 添加开发依赖
 uv add --dev <package-name>
 ```
+
+## Obsidian 规则
+
+操作 `notes/` 或 `.md` 文件时使用 `obsidian:obsidian-markdown` skill
